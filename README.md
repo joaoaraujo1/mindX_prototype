@@ -17,3 +17,5 @@ Above we have some examples of EEG data receieved by the Android device. We can 
 It is possible (and necessary) to fine-tune some game-related parameters for the best gaming experience, namely the limits of the fixed-decoder and the level of control (higher attractor force, less control) and checking the headset connection. To do so, we have the settings menu.
 
 <img src="https://user-images.githubusercontent.com/40466329/51794258-7a438f80-21c6-11e9-85d5-de29a03dcc3f.jpg" alt="alt text" width="416" height="250">
+
+The app was created with Android Studio and the languages used for coding were Java, Processing and XML.
